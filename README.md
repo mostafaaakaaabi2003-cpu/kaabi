@@ -1,2 +1,0 @@
-# kaabi
-Kaabi sait
